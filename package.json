@@ -2,7 +2,7 @@
   "name": "kagamireact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ramram1048.github.io/kagamireact/",
+  "homepage": "http://ramram1048.github.io/kagami-light/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
