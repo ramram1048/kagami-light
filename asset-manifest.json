@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kagami-light/static/css/main.6338711c.chunk.css",
+    "main.js": "/kagami-light/static/js/main.bb532616.chunk.js",
+    "main.js.map": "/kagami-light/static/js/main.bb532616.chunk.js.map",
+    "runtime~main.js": "/kagami-light/static/js/runtime~main.82d46543.js",
+    "runtime~main.js.map": "/kagami-light/static/js/runtime~main.82d46543.js.map",
+    "static/js/2.5dbd8ed4.chunk.js": "/kagami-light/static/js/2.5dbd8ed4.chunk.js",
+    "static/js/2.5dbd8ed4.chunk.js.map": "/kagami-light/static/js/2.5dbd8ed4.chunk.js.map",
+    "index.html": "/kagami-light/index.html",
+    "precache-manifest.5d4a6127e95804ab2ef6f8c6b81f70cd.js": "/kagami-light/precache-manifest.5d4a6127e95804ab2ef6f8c6b81f70cd.js",
+    "service-worker.js": "/kagami-light/service-worker.js",
+    "static/css/main.6338711c.chunk.css.map": "/kagami-light/static/css/main.6338711c.chunk.css.map"
+  }
+}
