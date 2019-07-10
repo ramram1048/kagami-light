@@ -124,9 +124,6 @@ class App extends React.Component{
     document.addEventListener('onActionUpdated', ((e) => {
       this.update(e.detail);
     }));
-    document.addEventListener('onEndEncounter', ((e) => {
-      this.reset();
-    }));
     document.addEventListener("onOverlayStateUpdate", ((e) => {
       if (!e.detail.isLocked) {
         this.displayResizeHandle();
